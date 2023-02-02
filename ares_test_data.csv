@@ -1,0 +1,20 @@
+description,stage,duration
+desc stage1 1,stage1,3
+desc stage2 1,stage2,2
+desc stage3 1,stage3,3
+desc stage2 1,stage2,3
+desc stage1 1,stage1,1
+desc stage2 1,stage2,1
+desc stage3 1,stage3,2
+desc stage2 1,stage2,3
+desc stage1 1,stage1,2
+desc stage3 1,stage3,3
+desc stage1 1,stage1,2
+desc stage2 1,stage2,1
+desc stage1 1,stage1,2
+desc stage2 1,stage2,2
+desc stage3 1,stage3,2
+desc stage3 1,stage3,3
+desc stage1 1,stage1,2
+desc stage2 1,stage2,1
+desc stage1 1,stage1,2
