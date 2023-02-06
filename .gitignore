@@ -7,3 +7,8 @@ functions/__pycache__/duration_prediction.cpython-310.pyc
 functions/__pycache__/probability_matrix.cpython-310.pyc
 .gitignore
 functions/__pycache__/string_operations.cpython-310.pyc
+functions/__pycache__/__init__.cpython-310.pyc
+functions/__pycache__/test_biagram.cpython-310.pyc
+.gitignore
+tests/__pycache__/test_biagram.cpython-310.pyc
+tests/__pycache__/__init__.cpython-310.pyc
