@@ -1,2 +1,6 @@
 .vscode/settings.json
 ARES2_EJECUCION_ACTIVIDADES.csv
+functions/__pycache__/__init__.cpython-310.pyc
+functions/__pycache__/test_biagram.cpython-310.pyc
+tests/__pycache__/__init__.cpython-310.pyc
+tests/__pycache__/test_biagram.cpython-310.pyc
